@@ -1,18 +1,17 @@
-# Exploring Krishna's Gita
-
-This project is about exploring
-Ramanuja's commentary on The Gita.
-
-The Gita narrates the conversation between Krishna and Arjuna
+The Gita narrates a conversation between Krishna and Arjuna
 in [Shlokas](https://rapalearning.com/gita-shlokas).
-It deals with work, life, awareness, liberty, and the Lord.
+The conversation deals with work, life, awareness, liberty, and the Lord.
 
-Krishna explains each aspect in several contexts.
+Krishna explains some of these aspects in several chapters,
+not necessarily in sequence.
 [Ramanuja's commentary](https://rapalearning.com/life-and-liberty/ACover.html)
 explores all of them.
 
-This project intends to thread them together with analytics and visualization.
-
+The purpose of this project is to thread
+and discover concepts in the Shlokas. 
+This often happens when we read them again and again.
+We want to help repeated reading with analytics and visualization.
+ 
 Let's start by [exploring word-counts](word-counts.md).
 The top-two words in this conversation are:
 - आत्मा (pronounced aatma): The Self, which is you
