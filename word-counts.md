@@ -17,7 +17,7 @@ Let's take the next most-frequently occurring word, which is 'Lord' (परम�
 </table>
 The word 'Lord' is concentrated around chapters **03**, 04, 07-11, **13** and 18. Krishna has described Himself pretty well here :)
 
-So if you want to explore the relationship between your Self and the Lord,
+If you want to explore the relationship between your Self and the Lord,
 you can start with the chapters where they both occur together -
 [chapter 3](https://rapalearning.com/life-and-liberty/Chapter%203.html)
 or [chapter 13](https://rapalearning.com/life-and-liberty/Chapter%2013.html).
