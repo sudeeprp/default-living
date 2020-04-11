@@ -26,3 +26,11 @@ Follow this link to [try exploring word-counts](word-counts.md)
 <<Past activities live as sattva, rajas and tamas within us
 <<What am I attached to, and why does it matter? <<table with qualities and discipline, charity 
 <<Our interpretation is given by past activities
+<<I give emotions: 10-4 to 10-5
+
+<<The lord doesn't trap us - we are trapped by our expectations 4-14
+
+<<akartaram avyayam
+
+Can a model pull out contradictory statements about actions
+and tie them together in activity?
