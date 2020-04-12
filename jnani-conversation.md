@@ -1,33 +1,65 @@
 # Those who know
 
-The fundamental law of the universe is the Lord.
-Everything happens for its purpose. Its will is always realized.
+The fundamental law of the physical universe is
+[a part of the Lord](https://rapalearning.com/life-and-liberty/Chapter%207.html#6).
+We are [a part of the Lord](https://rapalearning.com/life-and-liberty/Chapter%207.html#6)
+as well.
+Everything happens for the [Lord's purpose](https://rapalearning.com/life-and-liberty/Chapter%2018.html#78).
+Its will is always realized.
+
 The Gita is a part of the Mahabharata,
-in which the Lord has taken a male form - as Lord Krishna.
+in which the Lord happens to be seen in the male human form - as Lord Krishna.
+He says this in [4-6](https://rapalearning.com/life-and-liberty/Chapter%204.html#6).
+Those who know this attain the Lord, as said in [4-9](https://rapalearning.com/life-and-liberty/Chapter%204.html#9).
 
-'Those who know' are people who know this fact -
+'Those who know' are people who know the true nature of the Self.
+They know that its purpose is the Lord's purpose.
+See [7-16](https://rapalearning.com/life-and-liberty/Chapter%207.html#16),
+where he lists four types of people who worship Him.
 
-7-28
+Next, the Lord says that 'those who know' are dear to Him, in
+[7-17](https://rapalearning.com/life-and-liberty/Chapter%207.html#17)
 
-9-30
+## Knowing this, what would you converse with the Lord?
 
-- The fact that all their activities are for the Lord's purpose
+[4-11](https://rapalearning.com/life-and-liberty/Chapter%204.html#11) says:
+The way we adore the Lord, He reciprocates the same way.
+
+You would show dedication and recognize that its outcome is given by the Lord,
+as He says in [7-22](https://rapalearning.com/life-and-liberty/Chapter%207.html#22)
+
+You would recognize your Self, the body and all activities of the environment
+as his body. This is stated in
+[8-3](https://rapalearning.com/life-and-liberty/Chapter%208.html#3)
+
+[6-27](https://rapalearning.com/life-and-liberty/Chapter%206.html#27)
+says that such recognition comes when you are rid of all flaws.
+
+[9-30](https://rapalearning.com/life-and-liberty/Chapter%209.html#30)
+overrides this. The Lord says even if you aren't fortunate,
+even if you are downright foul and offensive, you will worship without flaws
+just by your resolve.
+
+Once you are devoted to Him, the Lord devotes himself to you.
+You will no longer need to bother about what's good for you, since He takes
+that responsibility. Just follow the Lord's imperative and surrender to Him.
+See [9-34](https://rapalearning.com/life-and-liberty/Chapter%209.html#34)
+and [18-66](https://rapalearning.com/life-and-liberty/Chapter%2018.html#66)
+
+Whatever your purpose, whomever you work for -
+it's the Lord's worship and He is the enjoyer
 ([3-11](https://rapalearning.com/life-and-liberty/Chapter%203.html#11))
-- The fact that the Lord is the essence of their Self.
-(<<))
 
-The Lord says 'Be the one who knows. That's my favorite' ([7-17](https://rapalearning.com/life-and-liberty/Chapter%207.html#17))
+The Lord is the essence of your Self
+([10-20](https://rapalearning.com/life-and-liberty/Chapter%2010.html#20))
 
-What, or Who is this Lord?
-<<10-39
-<<infinite compassion...
+What can we offer the Lord of the Universe? 'Anything and Everything',
+He says in
+[9-26](https://rapalearning.com/life-and-liberty/Chapter%209.html#26)
+and [9-27](https://rapalearning.com/life-and-liberty/Chapter%209.html#27)
 
-What does He do?
+Everything we say is praise to Him, as Arjuna says in
+[11-37](https://rapalearning.com/life-and-liberty/Chapter%2011.html#37) part 2
 
-Ok, So the Lord controls everything. What do I do? What can I offer Him?
-<<9-27
-<<9-31
-
-<<11-37 part 2
-
-https://rapalearning.com/life-and-liberty/Chapter%2010.html#inlineapplnote157
+Want to keep experiencing the Lord?
+[You experience It whenever you experience something special!](https://rapalearning.com/life-and-liberty/Chapter%2010.html#inlineapplnote157)

@@ -9,7 +9,7 @@ There is one fundamental law behind all of them,
 which is one part of the Lord.
 The other part of the universe is us.
 We are conscious beings who wonder about its mysteries.
-We also form a part of the Lord, as He says in
+We are also a part of the Lord, as He says in
 [7-6](https://rapalearning.com/life-and-liberty/Chapter%207.html#6).
 
 **You**, who wonder about all those mysteries, is the biggest mystery :)
