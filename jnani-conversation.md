@@ -30,3 +30,4 @@ Ok, So the Lord controls everything. What do I do? What can I offer Him?
 
 <<11-37 part 2
 
+https://rapalearning.com/life-and-liberty/Chapter%2010.html#inlineapplnote157

@@ -27,12 +27,15 @@ In all of this, our resolve reflects as the 'focus' in our actions,
 bringing perseverance towards our goal.
 That's if we have one goal, which can last the time of our pursuit.
 
-Perseverance towards your Self has the least variance,
-when it is separate from others and the environment.
-See the liberation of the Self in everything you do. The Lord says this in
+Perseverance towards your
+[**Self**](https://rapalearning.com/life-and-liberty/Back%20to%20Basics.html#inlineapplnote0)
+has the least variance, when it is separate from others and the environment.
+
+See every activity as a journey of awareness and liberation. 
+Without this viewpoint, variance sets in, as the Lord states in
 [2-41](https://rapalearning.com/life-and-liberty/Chapter%202.html#41).
-Without this view, variance sets in, which is described in the
-[Shlokas after this](https://rapalearning.com/life-and-liberty/Chapter%202.html#42).
+The [Shlokas after this](https://rapalearning.com/life-and-liberty/Chapter%202.html#42)
+describe what that variance feels like.
 
 In [10-36](https://rapalearning.com/life-and-liberty/Chapter%2010.html#36),
 the Lord says that He is determination and perseverance. Whenever you
@@ -42,6 +45,9 @@ In [2-67](https://rapalearning.com/life-and-liberty/Chapter%202.html#67),
 He says there's high variance in following the organs of our body.
 The organs of our body are for our use during this lifetime.
 We aren't meant to run behind their desires and pleasures.
+
+_A model to link these concepts could relate the closeness between
+resolve and perseverance; and recognize variance and fatigue as antonyms._
 
 ## If we don't run behind our pleasures, what do we run for?
 
@@ -65,15 +71,19 @@ instead of running to satisfy our body -
 we see constant progress.
 Learning by doing is better than contemplation.
 
-## What's the use of liberty? We need commitment!
+_Modelling this question as a reluctance to action would need to link
+Shlokas that recommend a bias to action._
 
-People who is totally attached to their work and outcomes may be blind
+## What's the use of liberty? What we need is commitment!
+
+People who are totally attached to their work and outcomes may be blind
 to alternatives. Usually, they get in their own way.
 They aren't committed when the outcome is not guaranteed.
-Outcomes are never guaranteed, as the Lord said in the famous
-[2-47](https://rapalearning.com/life-and-liberty/Chapter%202.html#47)
+Outcomes aren't guaranteed - experiences rarely match our expectations exactly.
+The Lord also states that in the famous
+[2-47](https://rapalearning.com/life-and-liberty/Chapter%202.html#47).
 
-Dispassionate, unattached people may be 'free',
+On the other hand, dispassionate, unattached people may be 'free',
 but they don't bother to get anything done?
 
 Lord Krishna responds in
@@ -97,6 +107,11 @@ Once we have set a purpose, we need to get out of the way -
 He says that in
 [11-33](https://rapalearning.com/life-and-liberty/Chapter%2011.html#33).
 
+_The above chain may be modelled by recognizing commitment to purpose
+and recognizing lack of trust as an antonym. The last part about
+'getting out of the way' may be asking too much from a model.
+Or maybe it can do better as well!_
+
 ## How do I keep my bias aside?
 
 [6-9](https://rapalearning.com/life-and-liberty/Chapter%206.html#9)
@@ -106,6 +121,9 @@ Level-headed.
 The Lord goes on to describe that state of being,
 along with its purpose, starting at
 [6-16](https://rapalearning.com/life-and-liberty/Chapter%206.html#16) onwards.
+
+He says that your initiative is His worship. See
+[18-47](https://rapalearning.com/life-and-liberty/Chapter%2018.html#47).
 
 ## Then what is our part in this world?
 
@@ -117,3 +135,5 @@ Our impressions are inside ourselves, given by
 at that point in time.
 
 We can only stay in the present, not in the past or the future.
+
+_Ok, I couldn't discern the model behind the last part of this story._

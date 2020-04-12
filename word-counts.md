@@ -13,7 +13,9 @@ Here is the chapter-wise distribution of the word आत्मा,
 We see here, that the word 'Self' is mostly concentrated
 in chapters 02, **03**, 05, 06, and **13**.
 
-Let's take the next most-frequently occurring word, which is 'Lord' (परमात्म):
+Let's take the next most-frequently occurring word, which is
+['Lord'](https://rapalearning.com/life-and-liberty/Chapter%2018.html#78)
+(परमात्म):
 <table>
 <tr><td>Lord</td><td style="background-color: hsla(120,60%,70%,0.00);">01</td><td style="background-color: hsla(120,60%,70%,0.04);">02</td><td style="background-color: hsla(120,60%,70%,0.25);">03</td><td style="background-color: hsla(120,60%,70%,0.26);">04</td><td style="background-color: hsla(120,60%,70%,0.02);">05</td><td style="background-color: hsla(120,60%,70%,0.03);">06</td><td style="background-color: hsla(120,60%,70%,0.26);">07</td><td style="background-color: hsla(120,60%,70%,0.25);">08</td><td style="background-color: hsla(120,60%,70%,0.24);">09</td><td style="background-color: hsla(120,60%,70%,0.27);">10</td><td style="background-color: hsla(120,60%,70%,0.28);">11</td><td style="background-color: hsla(120,60%,70%,0.03);">12</td><td style="background-color: hsla(120,60%,70%,0.29);">13</td><td style="background-color: hsla(120,60%,70%,0.03);">14</td><td style="background-color: hsla(120,60%,70%,0.04);">15</td><td style="background-color: hsla(120,60%,70%,0.04);">16</td><td style="background-color: hsla(120,60%,70%,0.03);">17</td><td style="background-color: hsla(120,60%,70%,0.29);">18</td></tr>
 </table>
