@@ -14,33 +14,33 @@ Relations, power, goodwill, wealth...
 > words like 'should', 'could', 'shouldn't'.
 
 Given a sentence conveying our sentiment of distress,
-I want to explore what the
+Can I explore what the
 [Gita-bhashya](https://rapalearning.com/life-and-liberty/ACover.html)
-has to say about it.
+has to say about it?
 
 _How could a
 <abbr title="an interpretation of data to draw inference">model</abbr> help?_
 
 _A sentiment-analysis on each sentence will classify its sentiment as
 distress, or not. Picking distress-loaded sentences will probably give
-[Arjuna's predicament in the first chapter](https://rapalearning.com/life-and-liberty/Chapter%201.html#26) -
-his discomfort on realizing that his relatives are the enemy and
-thinking of the loss that comes from confronting them._
+[Arjuna's predicament in the first chapter](https://rapalearning.com/life-and-liberty/Chapter%201.html#26)-
+confronting his relatives as opponents.
+We are looking for something more than that, aren't we?_
 
 > How does Lord Krishna address our distress?
 
 _Can we employ a model to thread the Lord's responses
 in different chapters? Sentences in this thread wouldn't
-have a sentiment of distress._
+have a sentiment of distress, quite the opposite._
 
 To start, let's take two forms of distress - Regret and Worry.
-Let's pull it apart.
+Let's pull them apart.
 
 ## Regret
 
 Regret is one form of distress. In
 [3-37](https://rapalearning.com/life-and-liberty/Chapter%203.html#37),
-Krishna describes desire as the cause of regret. In
+Krishna describes 'desire' as the cause of regret and guilt. In
 [3-38](https://rapalearning.com/life-and-liberty/Chapter%203.html#38),
 He says everyone has it. In
 [3-42](https://rapalearning.com/life-and-liberty/Chapter%203.html#42),
@@ -58,20 +58,16 @@ perhaps link it as a cause. And then bring in the neighboring Shlokas,
 ending the thread with the remedy in
 [5-3](https://rapalearning.com/life-and-liberty/Chapter%205.html#3)._
 
-This thread brings a follow-up question,
-especially if we intend to live according to it -
+This thread brings a follow-up question-
 
 > If we aren't driven by desire, and if we don't regret anything,
-what would guide us? We all desire to gain and avoid
-the outcomes and consequences of our work.
+what would guide us? We all desire **outcomes** from our work.
+We want to avoid any undesirable side-effects.
 
-_The model would then need to recognize the link between
-'desire' and 'consequences'.
-Desires are always linked to consequences and outcomes._
+It's good to ask the Lord. What has the Lord said about **outcomes**?
 
-> What has the Lord said about outcomes?
+Actually, a lot. There are a 100+ occurrences of the word 'outcome'.
 
-Actually, a lot (100+ occurrences of the word 'outcome').
 The Shlokas
 [3-12](https://rapalearning.com/life-and-liberty/Chapter%203.html#12)
 and [3-13](https://rapalearning.com/life-and-liberty/Chapter%203.html#13)
@@ -88,8 +84,9 @@ used in making it happen.
 Many things need to come together to make something happen.
 Neither the credit, nor the guilt belongs to us.
 
-Still want to cling to your guilt to guide you?
-There's another way to look at it.
+Still want your guilt to guide you?
+There's definitely another way to look at it.
+
 Before that, let's look at another form of distress.
 
 ## Worry
@@ -109,13 +106,13 @@ describe the Lord's instructions.
 When we go against those instructions,
 [16-11](https://rapalearning.com/life-and-liberty/Chapter%2016.html#11)
 says that we would take refuge in worry, considering the enjoyment of desires
-as the ultimate goal.
+as our limiting goal.
 In Shloka [17-18](https://rapalearning.com/life-and-liberty/Chapter%2017.html#18),
-He says that we would tend to start showing-off, and connects this with fear.
+He says that we would tend to start showing-off. He connects this with fear.
 
 For example, we may practice rigorous discipline in our work, worship,
 or investments. It is accompanied by a misconception that
-we're doing all of it for our purpose - to prove that we are the best.
+we're doing all of it for our own purpose - to prove that we are the best.
 Any gain from such discipline comes with the 'fear' of losing it.
 
 _To link this thread from 'worry', we need a model that links it to fear,
@@ -127,9 +124,11 @@ What if we aren't driven by worry? Will we become careless?
 
 We don't want to be in distress, guilt or worry. 
 But without them, we are afraid that we would lose guidance.
-Maybe, distress is useful?
-We worry about dental health, so we get everyone to brush their teeth.
-The guilt of overeating balances against evolutionary instincts to fill-up.
+Maybe. Is distress useful?
+
+There are many examples of 'the distress of worry' being useful-
+Our worry about dental health makes us brush our teeth;
+The guilt of overeating balances against evolutionary instincts to fill-up;
 We worry about losing money, so we make profitable investments. 
 
 Or do we?
@@ -153,7 +152,7 @@ Do we grudge it? Do we fear losing it?
 Or do we cherish the awareness that comes out of it - as the Lord says in
 [4-33](https://rapalearning.com/life-and-liberty/Chapter%204.html#33)?
 
-With this, we wouldn't be burdened by distress. We would
+With this choice, we wouldn't be burdened by distress. We would
 [work without attachment](https://rapalearning.com/life-and-liberty/karmayoga.html)
 to realize our full potential - as the Lord describes in
 [2-72](https://rapalearning.com/life-and-liberty/Chapter%202.html#72).
@@ -161,5 +160,5 @@ to realize our full potential - as the Lord describes in
 _As we saw here, we could use some help in linking concepts and gaining
 new views of a subject. These links were made manually, not by a 
 <abbr title="an interpretation of data to draw inference">model</abbr> yet.
-The Gita-bhashya is vast and deep, so this project will construct a model
-to make more views than what a person could achieve manually._
+The Gita-bhashya is vast and deep. This project will construct a model
+to make more views, than what a normal person could achieve manually._
