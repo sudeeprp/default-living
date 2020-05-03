@@ -17,19 +17,21 @@ They know that its purpose is the Lord's purpose.
 See [7-16](https://rapalearning.com/life-and-liberty/Chapter%207.html#16),
 where he lists four types of people who worship Him.
 
-Next, the Lord says that 'those who know' are dear to Him, in
-[7-17](https://rapalearning.com/life-and-liberty/Chapter%207.html#17)
+Following this, in
+[7-17](https://rapalearning.com/life-and-liberty/Chapter%207.html#17),
+the Lord refers to 'those who know' as being dear to Him.
 
-## Knowing this, what would you converse with the Lord?
+## Adoring the Lord
 
 [4-11](https://rapalearning.com/life-and-liberty/Chapter%204.html#11) says:
-The way we adore the Lord, He reciprocates the same way.
+Whichever way we adore the Lord, He reciprocates in the same way.
 
-You would show dedication and recognize that its outcome is given by the Lord,
+Knowing that your purpose is the Lord's purpose, you would demonstrate dedication.
+You would also recognize that its outcome is given by the Lord,
 as He says in [7-22](https://rapalearning.com/life-and-liberty/Chapter%207.html#22)
 
-You would recognize your Self, the body and all activities of the environment
-as his body. This is stated in
+You would recognize your Self, your body and all activities of the environment
+as His body. This is stated in
 [8-3](https://rapalearning.com/life-and-liberty/Chapter%208.html#3)
 
 [6-27](https://rapalearning.com/life-and-liberty/Chapter%206.html#27)
